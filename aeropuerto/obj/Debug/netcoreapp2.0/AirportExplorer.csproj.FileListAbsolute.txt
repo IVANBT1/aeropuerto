@@ -1,0 +1,12 @@
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.deps.json
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.json
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.dev.json
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.pdb
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csprojAssemblyReference.cache
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfoInputs.cache
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfo.cs
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\Users\ivang\Downloads\airport-explorer-source-master\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.pdb
